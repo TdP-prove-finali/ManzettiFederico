@@ -61,13 +61,15 @@ public class Simulazione {
 		}
 	} 
 	
-	return new SimResult(diagnosiU, listaPrestazioni);
+	return new SimResult(diagnosiU, listaPrestazioni); //sostituire con result
 
 	}
 
 
      //suppongo linea che lavori 24/24 h
+	
 	private boolean processDemand(Domanda d) {
+		
 		Prestazioni prestazioni=new Prestazioni(d.getData());
 		boolean flag = false;
 		
