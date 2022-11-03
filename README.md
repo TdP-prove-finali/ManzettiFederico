@@ -1,4 +1,4 @@
-# ManzettiFederico
+# Manzetti Federico
 Applicazione per la gestione e l’ottimizzazione delle prestazioni di una linea di produzione industriale tramite simulazione
 
 Istruzioni per l'utilizzo dell' applicativo:
