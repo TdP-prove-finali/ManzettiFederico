@@ -1,5 +1,5 @@
-CREATE DATABASE IF NOT EXISTS `DatiTesi`;
-USE `DatiTesi`;
+CREATE DATABASE IF NOT EXISTS `VenditeProdotti`;
+USE `VenditeProdotti`;
 
 CREATE TABLE IF NOT EXISTS `Workstation` (
 	`Nome` VARCHAR(50) NOT NULL,
